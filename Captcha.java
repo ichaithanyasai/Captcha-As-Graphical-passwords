@@ -11,7 +11,7 @@ public class Captcha extends JFrame implements ActionListener {
     private String captchaString;
 
     public Captcha() {
-        setTitle("Our Captcha");
+        setTitle("Sai's Captcha");
         setSize(500, 150);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
